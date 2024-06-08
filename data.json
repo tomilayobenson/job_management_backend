@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "customerName": "John Doe",
+    "jobType": "Plumbing",
+    "status": "Scheduled",
+    "appointmentDate": "2024-06-15T09:00:00Z",
+    "technician": "Jane Smith"
+  },
+  {
+    "id": 2,
+    "customerName": "Patty Peacok",
+    "jobType": "Counting",
+    "status": "Completed",
+    "appointmentDate": "2024-06-02T09:00:00Z",
+    "technician": "Don Down"
+  },
+  {
+    "id": 3,
+    "customerName": "Anne Beans",
+    "jobType": "Chemical",
+    "status": "Completed",
+    "appointmentDate": "2024-05-10T14:00:00Z",
+    "technician": "Rob Green"
+  },
+  {
+    "id": 4,
+    "customerName": "Elle Elephant",
+    "jobType": "Skiing",
+    "status": "Scheduled",
+    "appointmentDate": "2024-06-02T09:00:00Z",
+    "technician": "Gunny Goat"
+  },
+  {
+    "id": 5,
+    "customerName": "Ruby Rabbit",
+    "jobType": "Teaching",
+    "status": "Completed",
+    "appointmentDate": "2024-06-02T09:00:00Z",
+    "technician": "Sunny Shot"
+  }
+]
