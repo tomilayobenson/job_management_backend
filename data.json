@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "customerName": "John Doe",
+    "customerName": "John Lame",
     "jobType": "Plumbing",
     "status": "Scheduled",
-    "appointmentDate": "2024-06-15T09:00:00Z",
+    "appointmentDate": "2024-06-15T21:00:00.000Z",
     "technician": "Jane Smith"
   },
   {
     "id": 2,
-    "customerName": "Patty Peacok",
+    "customerName": "Patty Peacockery",
     "jobType": "Counting",
-    "status": "Completed",
-    "appointmentDate": "2024-06-02T09:00:00Z",
+    "status": "In Progress",
+    "appointmentDate": "2024-06-02T15:00:00.000Z",
     "technician": "Don Down"
   },
   {
@@ -30,13 +30,5 @@
     "status": "Scheduled",
     "appointmentDate": "2024-06-02T09:00:00Z",
     "technician": "Gunny Goat"
-  },
-  {
-    "id": 5,
-    "customerName": "Ruby Rabbit",
-    "jobType": "Teaching",
-    "status": "Completed",
-    "appointmentDate": "2024-06-02T09:00:00Z",
-    "technician": "Sunny Shot"
   }
 ]

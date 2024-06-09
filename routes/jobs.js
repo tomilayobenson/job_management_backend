@@ -6,6 +6,7 @@ const {readData,writeData} = require('../utils/fileHelpers')
 
     router.get('/', async(req, res) => {
         try {
+            // console.log("we are here")
             const data = await readData()
             res.json(data);
         } catch (error) {
