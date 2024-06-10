@@ -3,8 +3,8 @@
     "id": 1,
     "customerName": "John Lame",
     "jobType": "Plumbing",
-    "status": "Scheduled",
-    "appointmentDate": "2024-06-15T21:00:00.000Z",
+    "status": "In Progress",
+    "appointmentDate": "2024-06-16T03:00:00.000Z",
     "technician": "Jane Smith"
   },
   {
@@ -22,13 +22,5 @@
     "status": "Completed",
     "appointmentDate": "2024-05-10T14:00:00Z",
     "technician": "Rob Green"
-  },
-  {
-    "id": 4,
-    "customerName": "Elle Elephant",
-    "jobType": "Skiing",
-    "status": "Scheduled",
-    "appointmentDate": "2024-06-02T09:00:00Z",
-    "technician": "Gunny Goat"
   }
 ]

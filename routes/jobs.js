@@ -14,7 +14,7 @@ const {readData,writeData} = require('../utils/fileHelpers')
         }
     })
     
-    // Read (GET all jobs by ID) 
+    // Read (GET job by ID) 
     router.get('/:id', async(req, res) => {
         try {
             const data = await readData()
